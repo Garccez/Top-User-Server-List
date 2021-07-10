@@ -1,0 +1,19 @@
+/**
+ * @name Top User Server List
+ * @author Belotto#8880
+ * @version 1.0.0
+ * @invite 
+ * @description Moves the server list and the userbar from the left and bottom to the top of Discord. Base by Gibbu and Addon by LeePrky.
+ * @source 
+ * @authorId 806685903200190544
+ * @website
+*/
+
+/* Base */
+@import url("https://caffejappa.github.io/top-user-server-list/base.css");
+
+:root {
+  /* HSL by Gibbu */
+  --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
+  --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
+}

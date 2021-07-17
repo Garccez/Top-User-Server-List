@@ -14,8 +14,15 @@
 
 :root {
   /* HSL by Gibbu */
+  
   --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
   --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
   /* Settings */
-  --separator-visibility: hidden;
+  
+  --separator-visibility: hidden; /* DEFAULT: hidden; */
+  
+  /* Top User Location */ /* Change it to 6px and 3px if you're having problems. */
+  /* DEFAULT: 26px; 19px */
+  --disw-1: 26px;
+  --disw-2: 19px;
 }
